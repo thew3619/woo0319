@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\win\\woo0319\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6A8F1D-913C-F627-22AE-4DD7E0713D4D}|Assembly-CSharp.csproj|C:\\Users\\win\\woo0319\\assets\\scenes\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB6A8F1D-913C-F627-22AE-4DD7E0713D4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6A8F1D-913C-F627-22AE-4DD7E0713D4D}|Assembly-CSharp.csproj|c:\\users\\win\\woo0319\\assets\\scenes\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB6A8F1D-913C-F627-22AE-4DD7E0713D4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bullet.cs",
+              "DocumentMoniker": "C:\\Users\\win\\woo0319\\Assets\\Scenes\\bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\bullet.cs",
+              "ToolTip": "C:\\Users\\win\\woo0319\\Assets\\Scenes\\bullet.cs",
+              "RelativeToolTip": "Assets\\Scenes\\bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:18:30.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "move.cs",
+              "DocumentMoniker": "C:\\Users\\win\\woo0319\\Assets\\Scenes\\move.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\move.cs",
+              "ToolTip": "C:\\Users\\win\\woo0319\\Assets\\Scenes\\move.cs",
+              "RelativeToolTip": "Assets\\Scenes\\move.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAewCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T05:58:37.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
